@@ -1,4 +1,4 @@
-# Modèle de configuration de Webpack pour WordPress
+# Modèle de configuration de Webpack pour Html Css / Scss et WordPress
 
 ## Réutilisation
 
@@ -36,8 +36,8 @@
 
 ### Polices
 --------
-- Amaranth : titres, prix et figcaption
-- Open sans : texte par défaut
+- Amaranth : titres, prix et figcaption.
+- Open sans : texte par défaut.
 
 ### Couleurs
 ---------

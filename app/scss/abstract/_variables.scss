@@ -1,4 +1,9 @@
 
+$vert: #96B011;
+
+
+
+
 // Font size
 $font-size-small: 12px;
 $font-size-medium: 14px;
@@ -6,26 +11,30 @@ $font-size-large: 16px;
 
 // Breakpoints for responsive
 $breakpoint-small: 500px;
-$breakpoint-medium: 800px;
-$breakpoint-large: 1000px;
+$breakpoint-medium: 780px;
+$breakpoint-large: 1024px;
 
 
 // Font family
-$font-family-title: ;
-$font-family-label: ;
-$font-family-namesite: ;
-$font-family-quotes: ;
+
+$font-family-title: 'Amaranth', sans-serif;
+$font-family-text: 'Open Sans', Arial, sans-serif;
+//$font-family-label: ;
+//$font-family-namesite: ;
+//$font-family-quotes: ;
 
 
 // Colors
-$color-text: #;
-$color-text-alt : #;
-$color-button: #;
-$color-bg-first: #;
-$color-bg-second: #;
-$color-footer: #;
-$color-white: #;
-$color-light-text: #;
+$color-text: #666;
+//$color-text-alt : #;
+$color-button: #B09067;
+$color-bg-first: #F2F2F2;
+$color-bg-second: #EAEFCF;
+$bg-promo: rgba(0, 0, 0, 0.1);
+$hover: rgba(176, 144, 103, 0.75);
+//$color-footer: #;
+//$color-white: #;
+//$color-light-text: #;
 
 
 // Icons
