@@ -68,7 +68,7 @@ NB : flip-horizontal
 - sur mobile : panier fixe
 - au survol des thés : opacité sauf sur celui survolé (modifié) .
 
-#textes
+# textes
 
 ***************
 PAGE LISTING
